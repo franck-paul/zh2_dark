@@ -17,7 +17,7 @@ $this->registerModule(
 	/* Name */			"zh2-dark",
 	/* Description*/	"Zen habits (based on eponym Wordpress theme designed by Leo Babuta), dark variation",
 	/* Author */		"Franck Paul",
-	/* Version */		'1.1',
+	/* Version */		'1.1.1',
 	/* Parent */		'zh2',
 	array(
 		/* Type */		'type' =>			'theme'

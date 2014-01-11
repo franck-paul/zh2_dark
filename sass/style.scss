@@ -318,11 +318,11 @@ table {
 	/* post styles */
 	.post {
 		strong {
-			font-weight: bold
+			font-weight: bold;
 		}
 
 		em {
-			font-style: italic
+			font-style: italic;
 		}
 
 		a {
@@ -383,13 +383,13 @@ table {
 	}
 
 	/* line at bottom of post */
-	.home_bottom {
-		// Font
-		font-family: $main-font-family;
-		font-size: 2em;
-		line-height: 2.5em;
-		// Border
-		border-bottom: 1px solid $post-underline-color;
+	.dc-post, .dc-page {
+		.post {
+			// Border
+			border-bottom: 1px solid $post-underline-color;
+			// Positions/Dimensions
+			margin-bottom: 1em;
+		}
 	}
 
 	/* previous & next posts at bottom */
@@ -435,7 +435,6 @@ table {
 		font-weight: bold;
 		line-height: 1.25em;
 		// Positions/Dimensions
-		height: 1.25em;
 		margin-bottom: 1em;
 
 		a {
@@ -519,12 +518,12 @@ table {
 
 			strong {
 				// Font
-				font-weight: bold
+				font-weight: bold;
 			}
 
 			em {
 				// Font
-				font-style: italic
+				font-style: italic;
 			}
 
 			a.comment-reply-link {
@@ -675,7 +674,7 @@ table {
 	}
 	.navigation p {
 		// Font
-		font-size: 1em
+		font-size: 1em;
 	}
 	.subscribe ul {
 		// Font
@@ -685,19 +684,19 @@ table {
 	}
 	.footer p {
 		// Font
-		font-size: 1.2em
+		font-size: 1.2em;
 	}
 	h2 {
 		// Font
-		font-size: 2.5em
+		font-size: 2.5em;
 	}
 	h3 {
 		// Font
-		font-size: 2em
+		font-size: 2em;
 	}
 	h6 {
 		// Font
-		font-size: 1.5em
+		font-size: 1.5em;
 	}
 	p {
 		// Font
@@ -732,7 +731,7 @@ table {
 	}
 	.navigation p {
 		// Font
-		font-size: 1em
+		font-size: .8em;
 	}
 	subscribe ul {
 		// Font
@@ -742,19 +741,19 @@ table {
 	}
 	.footer p {
 		// Font
-		font-size: 1.2em
+		font-size: 1.2em;
 	}
 	h2 {
 		// Font
-		font-size: 2.5em
+		font-size: 2.5em;
 	}
 	h3 {
 		// Font
-		font-size: 2em
+		font-size: 2em;
 	}
 	h6 {
 		// Font
-		font-size: 1.5em
+		font-size: 1.5em;
 	}
 	p {
 		// Font
@@ -776,28 +775,28 @@ table {
 @media only screen and (max-device-width: 30em) {
 	.container {
 		// Positions/Dimensions
-		width: auto
+		width: auto;
 	}
 	body {
 		// Positions/Dimensions
-		padding: 0
+		padding: 0;
 	}
 	h1 {
 		// Font
-		font-size: 2em
+		font-size: 2em;
 	}
 	h2 {
 		// Font
-		font-size: 2.5em
+		font-size: 2.5em;
 	}
 	h3 {
 		// Font
-		font-size: 1.8em
+		font-size: 1.8em;
 	}
 	h6 {
 		@include normal-opacity;
 		// Font
-		font-size: 1.3em
+		font-size: 1.3em;
 	}
 	p {
 		// Font
@@ -828,7 +827,7 @@ table {
 	}
 	.navigation p {
 		// Font
-		font-size: 1.5em
+		font-size: 1em;
 	}
 	.subscribe p {
 		// Font
@@ -838,7 +837,7 @@ table {
 	}
 	.footer p {
 		// Font
-		font-size: 1em
+		font-size: 1em;
 	}
 }
 
@@ -856,10 +855,10 @@ table {
 	}
 	.container {
 		// Positions/Dimensions
-		display: block
+		display: block;
 	}
 	#prelude, .navigation, .subscribe, .footer {
 		// Positions/Dimensions
-		display: none
+		display: none;
 	}
 }

@@ -12,8 +12,8 @@ Ce thème est un thème enfant du thème [zh2](https://bitbucket.org/franckpaul/
 * [Sources, bugs, …](https://bitbucket.org/franckpaul/zh2-dark)
 * Auteur : [Franck Paul](http://open-time.net/)
 * Dépendance(s) :
-  * [Dotclear 2.7](https://bitbucket.org/dotclear/dotclear)
-  * [Thème zh2](https://bitbucket.org/franckpaul/zh2)
+    * [Dotclear 2.7](https://bitbucket.org/dotclear/dotclear)
+    * [Thème zh2](https://bitbucket.org/franckpaul/zh2)
 
 ## Description
 

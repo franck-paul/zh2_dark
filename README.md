@@ -7,7 +7,6 @@ Ce thème est un thème enfant du thème [zh2](https://bitbucket.org/franckpaul/
 ## Résumé
 
 * Thème zh2-dark pour Dotclear 2 (**2.7 minimum**)
-* Version 1.3
 * [Démo et téléchargement](http://themes.dotaddict.org/galerie-dc2/details/zh2-dark)
 * [Sources, bugs, …](https://bitbucket.org/franckpaul/zh2-dark)
 * Auteur : [Franck Paul](http://open-time.net/)

@@ -17,7 +17,8 @@ $this->registerModule(
     "Franck Paul",                                                                         // Author
     '1.4',                                                                                 // Version
     'zh2',                                                                                 // Parent
-    array(
-        'type' => 'theme' // Type
-    )
+    [
+        'requires' => [['core', '2.13']], // Dependencies
+        'type'     => 'theme'            // Type
+    ]
 );

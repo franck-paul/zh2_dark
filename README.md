@@ -1,26 +1,26 @@
 # Thème zh2-dark pour Dotclear 2
 
-Thème pour [Dotclear 2](http://fr.dotclear.org/) adapté du l'éponyme thème zh2 développé pour Wordpress par Leo Babauta ([Zen Habits](http://zenhabits.net/)).
+Thème pour [Dotclear 2](https://fr.dotclear.org/) adapté du l'éponyme thème zh2 développé pour Wordpress par Leo Babauta ([Zen Habits](http://zenhabits.net/)).
 
 Ce thème est un thème enfant du thème [zh2](https://bitbucket.org/franckpaul/zh2), décliné en sombre, et il faudra donc que vous ayez installé le thème zh2 pour pouvoir utiliser celui-ci.
 
 ## Résumé
 
 * Thème zh2-dark pour Dotclear 2 (**2.7 minimum**)
-* [Démo et téléchargement](http://themes.dotaddict.org/galerie-dc2/details/zh2-dark)
+* [Démo et téléchargement](https://themes.dotaddict.org/galerie-dc2/details/zh2-dark)
 * [Sources, bugs, …](https://bitbucket.org/franckpaul/zh2-dark)
-* Auteur : [Franck Paul](http://open-time.net/)
+* Auteur : [Franck Paul](https://open-time.net/)
 * Dépendance(s) :
     * [Dotclear 2.7](https://bitbucket.org/dotclear/dotclear)
     * [Thème zh2](https://bitbucket.org/franckpaul/zh2)
 
 ## Description
 
-![Aperçu](http://media.dotaddict.org/pda/tdc2/zh2-dark/zh2-dark.jpg)
+![Aperçu](https://media.dotaddict.org/pda/tdc2/zh2-dark/zh2-dark.jpg)
 
 Ce thème est mono-colonne, n’utilise aucune image, ne met en œuvre ni catégories ni mots-clés, pas plus que les widgets. Il gère cependant les commentaires et les rétroliens, s’ils sont ouverts, et les annexes des billets — il n’est pas réellement conçu pour ça. Sa page d’accueil n’affiche que le dernier billet, limité à l’extrait s’il en comporte un.
 
-Sa configuration est réduite à sa plus simple expression (mais détaille un peu ce qu’il est possible de faire en utilisant l’éditeur des fichiers du thème, entre autre pour modifier les différents liens de l’entête et du pied de page). Un des liens est d’ores et déjà mis sur la page contact servie par le plugin [ContactMe](http://plugins.dotaddict.org/dc2/details/contactMe).
+Sa configuration est réduite à sa plus simple expression (mais détaille un peu ce qu’il est possible de faire en utilisant l’éditeur des fichiers du thème, entre autre pour modifier les différents liens de l’entête et du pied de page). Un des liens est d’ores et déjà mis sur la page contact servie par le plugin [ContactMe](https://plugins.dotaddict.org/dc2/details/contactMe).
 
 ## History
 

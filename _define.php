@@ -18,7 +18,7 @@ $this->registerModule(
     '1.4',                                                                                 // Version
     'zh2',                                                                                 // Parent
     [
-        'requires' => [['core', '2.13']], // Dependencies
+        'requires' => [['core', '2.16']], // Dependencies
         'type'     => 'theme'            // Type
     ]
 );

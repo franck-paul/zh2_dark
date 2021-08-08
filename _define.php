@@ -8,13 +8,14 @@
  * @copyright Franck Paul (carnet.franck.paul@gmail.com)
  * @copyright GPL-2.0
  */
-
-if (!defined('DC_RC_PATH')) {return;}
+if (!defined('DC_RC_PATH')) {
+    return;
+}
 
 $this->registerModule(
-    "zh2-dark",                                                                            // Name
-    "Zen habits (based on eponym Wordpress theme designed by Leo Babuta), dark variation", // Description
-    "Franck Paul",                                                                         // Author
+    'zh2-dark',                                                                            // Name
+    'Zen habits (based on eponym Wordpress theme designed by Leo Babuta), dark variation', // Description
+    'Franck Paul',                                                                         // Author
     '1.5',                                                                                 // Version
     'zh2',                                                                                 // Parent
     [

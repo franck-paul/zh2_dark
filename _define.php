@@ -20,6 +20,10 @@ $this->registerModule(
     'zh2',                                                                                 // Parent
     [
         'requires' => [['core', '2.16']], // Dependencies
-        'type'     => 'theme'            // Type
+        'type'     => 'theme',            // Type
+
+        'details'    => 'https://open-time.net/?q=zh2-dark',       // Details URL
+        'support'    => 'https://github.com/franck-paul/zh2-dark', // Support URL
+        'repository' => 'https://raw.githubusercontent.com/franck-paul/zh2-dark/main/dcstore.xml'
     ]
 );

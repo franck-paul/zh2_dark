@@ -12,7 +12,7 @@ $this->registerModule(
     'zh2_dark',
     'Zen habits (based on eponym Wordpress theme designed by Leo Babuta), dark variation',
     'Franck Paul',
-    '5.1',
+    '6.0',
     [
         'requires' => [['core', '2.30']],
         'type'     => 'theme',

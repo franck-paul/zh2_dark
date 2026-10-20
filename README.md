@@ -4,7 +4,7 @@
 [![Date](https://img.shields.io/github/release-date/franck-paul/zh2_dark)](https://github.com/franck-paul/zh2_dark/releases)
 [![Issues](https://img.shields.io/github/issues/franck-paul/zh2_dark)](https://github.com/franck-paul/zh2_dark/issues)
 [![Dotclear](https://img.shields.io/badge/dotclear-v2.25-dev-blue.svg)](https://fr.dotclear.org/download)
-[![License](https://img.shields.io/github/license/franck-paul/zh2_dark)](https://github.com/franck-paul/zh2_dark/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/franck-paul/zh2_dark)](https://github.com/franck-paul/zh2_dark/blob/main/LICENSE)
 
 Thème pour [Dotclear 2](https://fr.dotclear.org/) adapté du l'éponyme thème zh2 développé pour Wordpress par Leo Babauta ([Zen Habits](http://zenhabits.net/)).
 

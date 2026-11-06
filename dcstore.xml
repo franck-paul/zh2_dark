@@ -1,11 +1,11 @@
 <modules xmlns:da="http://dotaddict.org/da/">
   <module id="zh2_dark">
     <name>zh2_dark</name>
-    <version>8.0</version>
+    <version>8.1</version>
     <author>Franck Paul</author>
     <desc>Zen habits (based on eponym Wordpress theme designed by Leo Babuta), dark variation</desc>
-    <date>2025-09-07T14:22:34+0200</date>
-    <file>https://github.com/franck-paul/zh2_dark/releases/download/8.0/theme-zh2_dark-8.0.zip</file>
+    <date>2026-11-06T10:14:34+0100</date>
+    <file>https://github.com/franck-paul/zh2_dark/releases/download/8.1/theme-zh2_dark-8.1.zip</file>
     <da:dcmin>2.36</da:dcmin>
     <da:details>https://dotclear.org/theme/detail/zh2_dark</da:details>
     <da:support>https://github.com/franck-paul/zh2_dark</da:support>
